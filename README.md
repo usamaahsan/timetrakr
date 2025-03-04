@@ -21,6 +21,8 @@
 
 ## 📷 LIVE DEMO
 
+https://timetrakr.vercel.app/
+
 ## 🏗 Installation
 
 Clone the repo and install dependencies:
